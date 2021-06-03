@@ -26,9 +26,9 @@ A simple, yet fun Word Search as my first ever submission to Apple's Student Cha
 git@github.com:kahbyte/simple-pong-game.git
 ```
 
-2. **Open it using Playgrounds**
+2. [**Open it using Playgrounds**](https://apps.apple.com/app/id1496833156)
 
-https://apps.apple.com/app/id1496833156\
+
 
 ## Have fun!
 <h4 align="center">
