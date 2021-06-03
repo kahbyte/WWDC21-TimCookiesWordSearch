@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Terms</key>
+	<dict>
+		<key>wordsearch</key>
+		<dict>
+			<key>Title</key>
+			<string>Word Search</string>
+			<key>Definition</key>
+			<string>A word search, word find, word seek, word sleuth or mystery word puzzle is a word game that consists of the letters of words placed in a grid, which usually has a rectangular or square shape. The objective of this puzzle is to find and mark all the words hidden inside the box.</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
