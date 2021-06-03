@@ -33,7 +33,7 @@ git@github.com:kahbyte/simple-pong-game.git
 
 ## Divirta-se!
 <h4 align="center">
-    Criado com amor ❤️ por <a href="https://www.linkedin.com/in/kahbyte/"> Kauê "kahbyte" Sales </a>
+    Criado com ❤️ por <a href="https://www.linkedin.com/in/kahbyte/"> Kauê "kahbyte" Sales </a>
 </h4>
 
 <div align = "center">
