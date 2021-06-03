@@ -30,7 +30,7 @@ https://apps.apple.com/app/id1496833156\
 
 ##Have fun!
 
-![Cookie][https://i.pinimg.com/originals/67/25/13/672513b759433b125597e0ea7528e1d4.png]
+<img src="https://i.pinimg.com/originals/67/25/13/672513b759433b125597e0ea7528e1d4.png"/>
 
 <h4 align="center">
     Created by <a href="https://www.linkedin.com/in/kahbyte/"> Kauê "kahbyte" Sales </a>
