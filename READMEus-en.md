@@ -1,4 +1,4 @@
-# [🏆Accepted] Tim Cookie's Word Search
+# Tim Cookie's Word Search [Accepted 🏆] 
 
 A simple, yet fun Word Search as my first ever submission to Apple's Student Challenge. 
 
