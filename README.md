@@ -4,7 +4,7 @@ Um simples e divertido caça palavras como minha primeira submissão para o Appl
 
 <div align = "center">
 
-    [English 🇺🇸](https://github.com/kahbyte/WWDC21-TimCookiesWordSearch/blob/main/READMEus-en.md)
+[**English 🇺🇸**](https://github.com/kahbyte/WWDC21-TimCookiesWordSearch/blob/main/READMEus-en.md)
 
 <img src="https://i.pinimg.com/originals/68/d0/9b/68d09b3c223fc141f82e3697c689ad2b.png" width="400" height="300" />
 
