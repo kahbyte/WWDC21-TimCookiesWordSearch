@@ -3,7 +3,8 @@
 A simple, yet fun Word Search as my first ever submission to Apple's Student Challenge. 
 
 <div align = "center">
-[Portuguese 🇧🇷](https://github.com/kahbyte/simple-pong-game/blob/master/README.md)
+    
+[**Portuguese 🇧🇷**](https://github.com/kahbyte/WWDC21-TimCookiesWordSearch/blob/main/READMEus-en.md)
 
 <img src="https://i.pinimg.com/originals/68/d0/9b/68d09b3c223fc141f82e3697c689ad2b.png" width="400" height="300" />
 
