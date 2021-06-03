@@ -1,6 +1,6 @@
 # [🏆Accepted] Tim Cookie's Word Search
 
-A simple, yet fun Word Search as my first ever submission to Apple\'92s Student Challenge. 
+A simple, yet fun Word Search as my first ever submission to Apple's Student Challenge. 
 
 <div align = "center">
 [Portuguese 🇧🇷](https://github.com/kahbyte/simple-pong-game/blob/master/README.md)
@@ -35,4 +35,6 @@ https://apps.apple.com/app/id1496833156\
     Created with ❤️ by <a href="https://www.linkedin.com/in/kahbyte/"> Kauê "kahbyte" Sales </a>
 </h4>
 
+<div align = "center">
 <img src="https://i.pinimg.com/originals/67/25/13/672513b759433b125597e0ea7528e1d4.png"/>
+</div>
