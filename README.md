@@ -1,6 +1,6 @@
-# Tim Cookie's Word Search [Accepted 🏆] 
+# Tim Cookie's Word Search [Aceito 🏆] 
 
-A simple, yet fun Word Search as my first ever submission to Apple's Student Challenge. 
+Um simples e divertido caça palavras como minha primeira submissão para o Apple's Student Challenge. 
 
 <div align = "center">
 [English 🇺🇸](https://github.com/kahbyte/WWDC21-TimCookiesWordSearch/blob/main/READMEus-en.md)
